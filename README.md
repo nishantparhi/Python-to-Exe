@@ -1,9 +1,6 @@
 # Python-to-Exe
 Convert Python to scripts to Exe
 
-# Python-to-Exe
-Convert Python to scripts to Exe
-
 
 Finally made it!
 
